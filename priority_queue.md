@@ -1,27 +1,27 @@
 # Priority Queue
 
-A \[widget\] is \[describe in very simple terms\].
+A priority queue is made from a min or max heap. Min and max heaps binary heaps made using dynamic arrays in memory. A priority queue has variables enqueued and dequeued, but the variable dequeued is always the variable with the highest priority. The highest priority variable will be the smallest variable in the priority queue if it is using a min heap; the largest variable if the priority queue uses a max heap.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a priority queue looks like this:
 
-\[sketch or diagram\]
+![Image of Priority Queue in Memory](images/priority_queue_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A priority queue supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A priority queue is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

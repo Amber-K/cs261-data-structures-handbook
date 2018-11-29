@@ -1,12 +1,12 @@
 # Graph
 
-A \[widget\] is \[describe in very simple terms\].
+A graph is a dynamic array of vertex names, each grouped with a stored variable and a corresponding dynamic array of edges. Vertices are named points on graphs with stored variables. Vertices can be connected to any other vertices in the same graph by edges.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a graph looks like this:
 
-\[sketch or diagram\]
+![Image of Graph in Memory](images/graph_memory.png)
 
 \[description of diagram\]
 
@@ -14,14 +14,14 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* Add Vertex: description, Big O efficiency, and explain why / what that means
+* Add Edge: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A graph is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

@@ -1,27 +1,27 @@
 # Binary Search Tree (BST)
 
-A \[widget\] is \[describe in very simple terms\].
+A BST is usually implemented as a node with four pointers. One pointer points to a point in memory for a variable to be stored at, one points to the node's parent (the node above it in the tree) if it has one, and other two pointers point to the left and right children of the node (nodes below the current one in the tree) if it has them. BSTs have their nodes organized so that nodes storing smaller variables go on the left and nodes storing larger variables go on the right.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a BST looks like this:
 
-\[sketch or diagram\]
+![Image of BST in Memory](images/bst_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A BST supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A BST is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

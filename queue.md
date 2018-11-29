@@ -1,27 +1,27 @@
 # Queue
 
-A \[widget\] is \[describe in very simple terms\].
+A queue is a dynamic row of pieces of memory that all have their memory addresses in order. In a queue, the first variable put in must always be the first variable taken out.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a queue looks like this:
 
-\[sketch or diagram\]
+![Image of Queue in Memory](images/queue_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A queue supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A queue is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

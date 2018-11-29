@@ -1,12 +1,12 @@
 # Python List
 
-A \[widget\] is \[describe in very simple terms\].
+A python list is a row of pieces of memory that all have their memory addresses in order. A python list stores a pointer of its first memory address that does not have a variable located at it. When a python list's slots in memory are all in use and it needs room for more variables, it automatically makes a copy of itself twice as large in memory (with all its data stored in the first half of its new slots in memory), then deletes its original self.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a python list looks like this:
 
-\[sketch or diagram\]
+![Image of Python List in Memory](images/python_list_memory.png)
 
 \[description of diagram\]
 
@@ -19,9 +19,9 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A python list is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

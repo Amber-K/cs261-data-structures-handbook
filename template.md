@@ -21,7 +21,7 @@ A \[widget\] supports the following operations:
 
 An \[widget\] is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 
@@ -31,4 +31,4 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 Amber Kolar. All rights reserved.

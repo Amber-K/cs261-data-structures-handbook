@@ -1,27 +1,27 @@
 # Stack
 
-A \[widget\] is \[describe in very simple terms\].
+A stack is a dynamic row of pieces of memory that all have their memory addresses in order. In a stack, the last variable put in must always be the first variable taken out.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a stack looks like this:
 
-\[sketch or diagram\]
+![Image of Stack in Memory](images/stack_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A stack supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A stack is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

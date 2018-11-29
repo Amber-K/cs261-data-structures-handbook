@@ -1,27 +1,27 @@
 # Deque
 
-A \[widget\] is \[describe in very simple terms\].
+A deque is a dynamic row of pieces of memory that all have their memory addresses in order. In a deque, variables can be put in on both ends and tracked by pointers. The variables on the very ends can then be removed.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a deque looks like this:
 
-\[sketch or diagram\]
+![Image of Deque in Memory](images/deque_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A deque supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* Enqueue Front: description, Big O efficiency, and explain why / what that means
+* Dequeue Front: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A deque is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

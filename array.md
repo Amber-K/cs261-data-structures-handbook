@@ -1,6 +1,6 @@
 # Array
 
-An array is \[describe in very simple terms\].
+An array is a fixed row of pieces of memory that all have their memory addresses in order. An array will often store a pointer of its first memory address that does not have a variable located at it. If an array is dynamic, that means that when its slots in memory are all in use and it needs room for more variables, it automatically makes a copy of itself twice as large in memory (with all its data stored in the first half of its new slots in memory), then deletes its original self.
 
 # In Memory
 
@@ -22,7 +22,7 @@ An array supports the following operations:
 
 An array is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why].
+It is not as good as \[what\] \[why].
 
 # Example
 

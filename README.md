@@ -2,10 +2,7 @@
 
 by Amber Kolar
 
-Data structures are \[\].
-I have mastered \[\], which are \[\].
-Having mastered these data structures proves that I \[\]. Not knowing data structures would mean \[\].
-It is important to know about my knowledge of data structures because \[\].
+Data structures are ways of organizing data in memory. I have mastered the data structures listed below, which are useful for a variety of applications. Having mastered these data structures proves that I am capable of creating programs that handle data efficiently. Not knowing data structures would inevitably lead to the creation of programs that put data through unnecessarily complicated operations. Because these data structures are the tools needed to handle data practically, it is good to know about my knowledge of them.
 
 ## The List
 
@@ -23,5 +20,4 @@ It is important to know about my knowledge of data structures because \[\].
 * [Priority Queue](priority_queue.md)
 * [Graph](graph.md)
 
-
-(c) Amber Kolar. All rights reserved.
+(c) 2018 Amber Kolar. All rights reserved.

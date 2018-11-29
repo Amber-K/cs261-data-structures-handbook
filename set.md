@@ -1,27 +1,27 @@
 # Set
 
-A \[widget\] is \[describe in very simple terms\].
+A set is a fixed row of pieces of memory that all have their memory addresses in order. Sets do not allow the variables stored within them to repeat. A set will often store a pointer of its first memory address that does not have a variable located at it. When a set's slots in memory are all in use and it needs room for more variables, it automatically makes a copy of itself twice as large in memory (with all its data stored in the first half of its new slots in memory), then deletes its original self.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a set looks like this:
 
-\[sketch or diagram\]
+![Image of Set in Memory](images/set_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A set supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A set is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 

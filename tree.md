@@ -1,27 +1,27 @@
 # Tree
 
-A \[widget\] is \[describe in very simple terms\].
+A tree is implemented as a node with usually at least three pointers. One pointer points to a point in memory for a variable to be stored at, one points to the node's parent (the node above it in the tree) if it has one, and other pointers point to children of the node (nodes below the current one in the tree) if it has any.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a tree looks like this:
 
-\[sketch or diagram\]
+![Image of Tree in Memory](images/tree_memory.png)
 
 \[description of diagram\]
 
 # Operations
 
-A \[widget\] supports the following operations:
+A tree supports the following operations:
 
 * name: description, Big O efficiency, and explain why / what that means
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A tree is useful \[when\] \[why\].
 
-It is not as good as \[what] \[why\].
+It is not as good as \[what\] \[why\].
 
 # Example
 
