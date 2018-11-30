@@ -15,8 +15,7 @@ Data structures are ways of organizing data in memory. I have mastered the data 
 * [Queue](queue.md)
 * [Deque](deque.md)
 * [Linked List](linked_list.md)
-* [Tree](tree.md)
-* [Binary Search Tree](bst.md)
+* [Tree and Binary Search Tree](tree_and_bst.md)
 * [Priority Queue](priority_queue.md)
 * [Graph](graph.md)
 
