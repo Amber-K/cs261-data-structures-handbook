@@ -6,9 +6,9 @@ A singly-linked list is implemented as a node with two pointers, one that points
 
 In memory, a linked list looks like this:
 
-![Image of Linked List in Memory](images/linked_list_memory.png)
+![Image of Linked List in Memory](images/linked_list_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory and the arrows represent pointers. This particular linked list is singly-linked and does not loop. Note that linked lists can store their values directly within their main nodes; they do not have to use pointers to their values like they do in this image.
 
 # Operations
 

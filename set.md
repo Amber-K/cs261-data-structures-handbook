@@ -6,9 +6,9 @@ A set is a fixed row of pieces of memory that all have their memory addresses in
 
 In memory, a set looks like this:
 
-![Image of Set in Memory](images/set_memory.png)
+![Image of Set in Memory](images/set_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The pointer down below is keeping track of where the next available spot in the set is. It is important to remember that none of the values stored in this set are allowed to repeat.
 
 # Operations
 

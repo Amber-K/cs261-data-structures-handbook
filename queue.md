@@ -6,9 +6,9 @@ A queue is a dynamic row of pieces of memory that all have their memory addresse
 
 In memory, a queue looks like this:
 
-![Image of Queue in Memory](images/queue_memory.png)
+![Image of Queue in Memory](images/queue_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The pointer on the right is keeping track of where variables will be enqueued. The pointer on the left is keeping track of where dequeuing will occur. The variable to the left of the dequeuing pointer has already been dequeued and is no longer a part of the queue. Only variables between the pointers are in the queue.
 
 # Operations
 

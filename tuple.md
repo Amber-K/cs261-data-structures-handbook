@@ -6,9 +6,9 @@ A tuple is a fixed row of pieces of memory that all have their memory addresses 
 
 In memory, a tuple looks like this:
 
-![Image of Tuple in Memory](images/tuple_memory.png)
+![Image of Tuple in Memory](images/tuple_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. Note that none of the values in this tuple will ever change.
 
 # Operations
 

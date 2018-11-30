@@ -6,9 +6,9 @@ An array is a fixed row of pieces of memory that all have their memory addresses
 
 In memory, an array looks like this:
 
-![Image of Array in Memory](images/array_memory.png)
+![Image of Array in Memory](images/array_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory.
 
 # Operations
 

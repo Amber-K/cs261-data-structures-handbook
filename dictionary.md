@@ -6,9 +6,9 @@ Dictionaries and hash tables are collections of points in memory that can be giv
 
 In memory, a dictionary looks like this:
 
-![Image of Dictionary in Memory](images/dictionary_memory.png)
+![Image of Dictionary in Memory](images/dictionary_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The stored values have a mixed up order within their dictionary because they had their positions decided by a hash function.
 
 # Operations
 

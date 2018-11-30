@@ -10,9 +10,9 @@ A BST is a type of tree that is usually implemented as a node with four pointers
 
 In memory, a tree looks like this:
 
-![Image of Tree in Memory](images/tree_memory.png)
+![Image of Tree in Memory](images/bst_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory and the arrows represent pointers. Note that BSTs can also store their values directly within their main nodes; they do not have to use pointers to their values like they do in this image.
 
 # Operations
 

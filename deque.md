@@ -6,9 +6,9 @@ A deque is a dynamic row of pieces of memory that all have their memory addresse
 
 In memory, a deque looks like this:
 
-![Image of Deque in Memory](images/deque_memory.png)
+![Image of Deque in Memory](images/deque_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The two pointers in the middle are keeping track of where enqueuing can occur on each of the two halves of the deque. The pointers closer to the edges are keeping track of where dequeuing can occur for each of the two halves of the deque. Values outside these pointers near the edges have already been dequeued and are no longer part of the deque.
 
 # Operations
 

@@ -4,15 +4,15 @@ In the case of adjacency lists, a graph is a dynamic array of vertex values, eac
 
 # In Memory
 
-In memory, a graph looks like this:
+In memory, a graph made by an adjacency list looks like this:
 
-![Image of Graph in Memory](images/graph_memory.png)
+![Image of Graph in Memory](images/graph_memory.JPG)
 
-\[description of diagram\]
+The joined rectangles represent arrays of memory and the arrows represent pointers. Generally, graphs are thought of as looking different than how they actually appear in memory. This diagram shows a simple graph without all the abstraction.
 
 # Operations
 
-A \[widget\] supports the following operations:
+A graph supports the following operations:
 
 * **Add Vertex** puts a new vertex variable as well as a new, corresponding, dynamic array for edges at the end of the adjacency list. This happens in O(1) constant time because there is a pointer stored that leads the operation straight to the end of the adjacency list.
 * **Add Edge** makes two additions to vertex edge arrays. Each of the two verticies selected to be connected will have the value of the other vertex stored in their own edge array. This happens in O(n) linear time because even though the two vertex arrays have pointers for their first open spaces, the operation still must search through the main adjacency list to find the two verticies.

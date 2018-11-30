@@ -6,9 +6,9 @@ A stack is a dynamic row of pieces of memory that all have their memory addresse
 
 In memory, a stack looks like this:
 
-![Image of Stack in Memory](images/stack_memory.png)
+![Image of Stack in Memory](images/stack_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The pointer off to the side is keeping track of where pushing and popping will occur.
 
 # Operations
 

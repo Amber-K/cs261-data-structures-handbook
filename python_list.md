@@ -6,9 +6,9 @@ A python list is a row of pieces of memory that all have their memory addresses 
 
 In memory, a python list looks like this:
 
-![Image of Python List in Memory](images/python_list_memory.png)
+![Image of Python List in Memory](images/python_list_memory.JPG)
 
-\[description of diagram\]
+The rectangles represent pieces of memory. The pointer down below is keeping track of where the next available spot in the python list is.
 
 # Operations
 

@@ -6,9 +6,9 @@ A priority queue is made from a min or max heap. Min and max heaps binary heaps 
 
 In memory, a priority queue looks like this:
 
-![Image of Priority Queue in Memory](images/priority_queue_memory.png)
+![Image of Priority Queue in Memory](images/priority_queue_memory.JPG)
 
-\[description of diagram\]
+The rectangles in the array section represent pieces of memory. The min heap is an abstraction of that array and the priority queue is an abstraction of the min heap.
 
 # Operations
 
